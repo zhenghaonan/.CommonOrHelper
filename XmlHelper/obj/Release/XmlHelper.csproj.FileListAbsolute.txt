@@ -1,0 +1,5 @@
+E:\vs_project\CfgHelper\XmlHelper\bin\Release\XmlHelper.dll
+E:\vs_project\CfgHelper\XmlHelper\bin\Release\XmlHelper.pdb
+E:\vs_project\CfgHelper\XmlHelper\obj\Release\XmlHelper.csproj.CoreCompileInputs.cache
+E:\vs_project\CfgHelper\XmlHelper\obj\Release\XmlHelper.dll
+E:\vs_project\CfgHelper\XmlHelper\obj\Release\XmlHelper.pdb

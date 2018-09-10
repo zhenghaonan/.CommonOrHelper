@@ -1,0 +1,7 @@
+E:\vs_project\CfgHelper\XmlHelper\bin\Debug\XmlHelper.dll
+E:\vs_project\CfgHelper\XmlHelper\bin\Debug\XmlHelper.pdb
+E:\vs_project\CfgHelper\XmlHelper\obj\Debug\XmlHelper.csproj.CoreCompileInputs.cache
+E:\vs_project\CfgHelper\XmlHelper\obj\Debug\XmlHelper.dll
+E:\vs_project\CfgHelper\XmlHelper\obj\Debug\XmlHelper.pdb
+E:\vs_project\CfgHelper\XmlHelper\bin\Debug\XmlHelper.xml
+E:\vs_project\CfgHelper\XmlHelper\obj\Debug\XmlHelper.csprojAssemblyReference.cache

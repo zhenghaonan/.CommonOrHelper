@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XmlHelper</name>
+    </assembly>
+    <members>
+        <member name="T:XmlHelper.Xml">
+            <summary>
+            初始化
+            </summary>
+        </member>
+        <member name="M:XmlHelper.Xml.InintXmlData(System.String)">
+            <summary>
+            初始化xml文档
+            </summary>
+            <param name="filePath"></param>
+        </member>
+        <member name="T:XmlHelper.XmlData">
+            <summary>
+            note：1、根节点必须是root，属性可以多 但是不能少 
+                  2、必须有group标签分组， group 组必须要有id属性 如：<group id = "GroupTwo" ></group>
+                  3、group 下面的标签必须有  id key  help description 属性 如:<test  id="testOne" key="conStr"  value ="local"  help="数据库连接字符串" description="数据库连接字符串">dasdadad</test>
+            </summary>
+        </member>
+        <member name="P:XmlHelper.XmlData.Key">
+            <summary>
+            key的值
+            </summary>
+        </member>
+        <member name="P:XmlHelper.XmlData.Id">
+            <summary>
+            id的值
+            </summary>
+        </member>
+        <member name="P:XmlHelper.XmlData.Value">
+            <summary>
+            value 的值
+            </summary>
+        </member>
+        <member name="P:XmlHelper.XmlData.Help">
+            <summary>
+            help 的值
+            </summary>
+        </member>
+        <member name="P:XmlHelper.XmlData.Description">
+            <summary>
+            description的值
+            </summary>
+        </member>
+        <member name="P:XmlHelper.XmlData.Text">
+            <summary>
+            文本
+            </summary>
+        </member>
+        <member name="P:XmlHelper.XmlData.Item(System.String)">
+             <summary>
+            根据组名称获取组中的内容
+             </summary>
+             <param name="GroupKey">组的id</param>
+             <returns>该组所有节点的值</returns>
+        </member>
+        <member name="P:XmlHelper.XmlData.Item(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="GroupKey">组的id</param>
+            <param name="key">标签的key值</param>
+            <returns>当前标签的数据</returns>
+        </member>
+    </members>
+</doc>
