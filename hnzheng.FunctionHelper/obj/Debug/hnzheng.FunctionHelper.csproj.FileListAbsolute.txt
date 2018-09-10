@@ -1,0 +1,6 @@
+E:\vs_project\hnZheng.NuGet\hnzheng.FunctionHelper\obj\Debug\hnzheng.FunctionHelper.csproj.CoreCompileInputs.cache
+E:\vs_project\hnZheng.NuGet\hnzheng.FunctionHelper\bin\Debug\hnzheng.FunctionHelper.xml
+E:\vs_project\hnZheng.NuGet\hnzheng.FunctionHelper\bin\Debug\hnzheng.FunctionHelper.dll
+E:\vs_project\hnZheng.NuGet\hnzheng.FunctionHelper\bin\Debug\hnzheng.FunctionHelper.pdb
+E:\vs_project\hnZheng.NuGet\hnzheng.FunctionHelper\obj\Debug\hnzheng.FunctionHelper.dll
+E:\vs_project\hnZheng.NuGet\hnzheng.FunctionHelper\obj\Debug\hnzheng.FunctionHelper.pdb

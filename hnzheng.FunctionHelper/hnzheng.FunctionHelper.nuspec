@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>hnzheng.FunctionHelper</id>
+    <version>1.0.0.2</version>
+    <title>动态执行方法帮助类</title>
+    <authors>hnzheng</authors>
+    <owners>hnzheng</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>动态执行方法帮助类</description>
+    <copyright>Copyright 2018</copyright>
+	<frameworkAssemblies>
+    <frameworkAssembly assemblyName="无依赖项" targetFramework="net45" />
+     </frameworkAssemblies>
+      <dependencies>   
+</dependencies>
+  </metadata>
+</package>
